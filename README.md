@@ -4,6 +4,13 @@ This public repository is a place where I share the knowledge I acquire througho
 
 If you’d like to contribute—whether it’s an element, an attribute, a method, a bug fix, or anything else that can help both of us grow as developers—feel free to open a pull request.
 
+### Structure
+
+For now, the repository contains a single folder: HTML
+
+HTML/ – Contains subfolders for each HTML element or concept I learn.
+
+As I continue learning, I’ll add more folders (e.g., CSS/, JavaScript/, Algorithms/) following the same pattern.
 
 ## How to Contribute
 Contributions are welcome! If you’d like to add new examples, fix a mistake, or improve the documentation, please follow these steps:
