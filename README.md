@@ -24,16 +24,3 @@ Open a Pull Request describing what you changed and why.
 ## Purpose
 
 I created this repository to document my learning journey and provide a reference for myself and others.
-
-## Structure
-
-For now, the repository contains a single folder: HTML
-As I continue learning, I will add more folders (e.g., CSS/, JavaScript/, Algorithms/) following the same pattern.
-
-## Acknowledgements
-
-This repository is built with the knowledge I’m gaining from the freeCodeCamp
- Full-Stack Development course.
-A big thanks to their team and community for providing such a comprehensive, free learning resource
-
-[Full Stack Course](https://www.freecodecamp.org/learn/full-stack-developer/)
