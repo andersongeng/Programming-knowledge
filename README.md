@@ -4,6 +4,23 @@ This public repository is a place where I share the knowledge I acquire througho
 
 If you’d like to contribute—whether it’s an element, an attribute, a method, a bug fix, or anything else that can help both of us grow as developers—feel free to open a pull request.
 
+
+## How to Contribute
+Contributions are welcome! If you’d like to add new examples, fix a mistake, or improve the documentation, please follow these steps:
+
+Fork the repository.
+
+Create a branch for your feature or fix:
+``git checkout -b feature-name``
+
+Commit your changes with a clear message:
+``git commit -m "Add explanation for HTML headings"``
+
+Push to your branch:
+``git push origin feature-name``
+
+Open a Pull Request describing what you changed and why.
+
 ## Purpose
 
 I created this repository to document my learning journey and provide a reference for myself and others.
